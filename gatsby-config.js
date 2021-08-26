@@ -42,4 +42,5 @@ module.exports = {
       __key: "pages",
     },
   ],
+  pathPrefix: "/gatsby-demo"
 };
