@@ -279,7 +279,7 @@ const IndexPage = () => {
       <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
     </div>
 
-    <div className="row">
+    <div className="row"> 
       <div className="col-lg-4 col-md-6 d-flex align-items-stretch"  data-aos-delay="100">
         <div className="icon-box">
           <div className="icon"><i className="bx bxl-dribbble"></i></div>
