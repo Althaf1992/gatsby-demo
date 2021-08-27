@@ -41,6 +41,15 @@ module.exports = {
       },
       __key: "pages",
     },
+    {
+      resolve: `gatsby-theme-blog`,
+      options: {
+        /*
+        - basePath defaults to `/`
+        */
+        basePath: `/blog`,
+      },
+    },
   ],
   pathPrefix: "/gatsby-demo"
 };
